@@ -1,4 +1,5 @@
 unsigned long currentTime = 0;
+int patate = 0;
 
 void setup() {
   Serial.begin(9600);
